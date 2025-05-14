@@ -1,0 +1,39 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #0a2745;
+  margin: 20px;
+  color: #333;
+}
+h1 {
+  color: #d0d8df;
+  text-align: center;
+  margin-bottom: 10px;
+}
+h2 {
+  color: #c1c8ce;
+  margin-top: 30px;
+}
+
+p {
+    color:aliceblue;
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  display: block;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+}
